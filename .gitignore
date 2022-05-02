@@ -1,0 +1,11 @@
+*.pyc
+/media/
+/static/
+general.log
+
+
+
+
+
+
+
