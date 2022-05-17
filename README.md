@@ -9,6 +9,10 @@ https://morfijinx.pythonanywhere.com/store
 
 https://morfijinx.pythonanywhere.com/auth/users/      (create account)
 
+https://morfijinx.pythonanywhere.com/auth/jwt/create (loggin)
+
+
+
 
 
 
